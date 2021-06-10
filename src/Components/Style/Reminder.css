@@ -1,0 +1,50 @@
+.container {
+  background-color: darkcyan;
+  margin-top: 30px;
+  height: 100%;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  width: 90%;
+  box-shadow: 0px 5px 8px grey;
+}
+.inputField {
+  margin-top: 20px;
+}
+.alarm {
+  margin-top: 30px;
+}
+input {
+  width: 11rem;
+  height: 2.5rem;
+  padding: 15px;
+  margin: 10px;
+  border-style: none;
+  border-radius: 10px;
+}
+input[type="Number"] {
+  border: 2px solid rgb(0, 225, 255);
+  border-radius: 10px;
+}
+input[type="Number"]:focus {
+  border-style: none;
+
+  border: 5px solid rgb(248, 245, 245);
+}
+button {
+  background-color: rgb(18, 219, 35);
+  width: 80px;
+
+  color: white;
+  margin-top: 15px;
+  padding: 5px;
+  border-style: none;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: rgb(71, 212, 255);
+}
+
+.mainHeading {
+  font-size: 40px;
+  color: white;
+}

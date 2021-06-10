@@ -1,0 +1,12 @@
+.staticImg {
+  width: 150px;
+  height: auto;
+}
+.timer {
+  color: green;
+  font-weight: bold;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: rgb(179, 191, 245);
+  border-radius: 10px;
+}
